@@ -1,5 +1,5 @@
 {
-    "name": "orumad/laravel-spanish-validator",
+    "name": "onclicksolucions/laravel-spanish-validator",
     "description": "Laravel validator for spanish stuff: NIF, NIE, CIF, NSS, IBAN, Postal Code, Phone numbers",
     "keywords": [
         "orumad",
@@ -21,7 +21,7 @@
     "require": {
         "php": "^8.0|^8.1|^8.2",
         "globalcitizen/php-iban": "^4.2",
-        "illuminate/support": "^10.0"
+        "illuminate/support": "^10.0|^11.0"
     },
     "require-dev": {
         "orchestra/testbench": "^8.0",
